@@ -24,7 +24,8 @@ export default {
 
 ### Note
 
-Please note that this package required `jquery` and `jquery-ui` dependencies to be installed.
+Please note that this package depends on `jQuery` and `jquery-ui`, but you won't need to add it to your project manually, `vue-jquery-calendar` will handle this for you automatically if this dependencies are not detected.
+
 
 ### CSS
 For `vue-jquery-calendar` appearance import jquery-ui css in `App.vue` main file
