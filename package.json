@@ -3,7 +3,7 @@
   "version": "1.1.4",
   "author": "Parth Faladu",
   "description": "A Vue.js component for jquery datepicker.",
-  "license": "MIT",
+  "license": "ISC",
   "main": "dist/VueJqueryCalendar.umd.js",
   "module": "dist/VueJqueryCalendar.esm.js",
   "unpkg": "dist/VueJqueryCalendar.min.js",
@@ -28,13 +28,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Parthfaladu/vue-jquery-datepicker"
+    "url": "git+https://github.com/Parthfaladu/vue-jquery-calendar"
   },
   "dependencies": {
     "core-js": "^3.6.4",
     "jquery": "^3.4.1",
     "jquery-ui-dist": "^1.12.1"
   },
+  "homepage": "https://github.com/Parthfaladu/vue-jquery-calendar#readme",
+  "keywords": [
+    "vue",
+    "vue-jquery-calendar",
+    "vue jquery calendar",
+    "calendar",
+    "datepicker",
+    "jquery ui datepicker"
+  ],
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
     "@vue/cli-plugin-eslint": "^4.2.0",
