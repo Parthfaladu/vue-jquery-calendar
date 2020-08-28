@@ -10,7 +10,7 @@ Or using yarn
 yarn add vue-jquery-calendar -dev
 ```
 
-For Installing plugin import `full-calendar` in your component page.
+For Installing plugin import `vue-jquery-calendar` in your component page.
 
 ```js
 //foo.vue
