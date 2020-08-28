@@ -1,6 +1,8 @@
 # vue-jquery-calendar
 [![npm version](https://badge.fury.io/js/vue-jquery-calendar.svg)](https://badge.fury.io/js/vue-jquery-calendar)
 
+`vue-jquery-calendar` is wrapper vue package of `jquery ui datepicker`
+
 ## Installation
 ```
 npm install --save vue-jquery-calendar
