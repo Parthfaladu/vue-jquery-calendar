@@ -1,6 +1,8 @@
 # vue-jquery-calendar
 [![npm version](https://badge.fury.io/js/vue-jquery-calendar.svg)](https://badge.fury.io/js/vue-jquery-calendar)
 
+`vue-jquery-calendar` is wrapper vue package of `jquery ui datepicker`
+
 ## Installation
 ```
 npm install --save vue-jquery-calendar
@@ -10,7 +12,7 @@ Or using yarn
 yarn add vue-jquery-calendar -dev
 ```
 
-For Installing plugin import `full-calendar` in your component page.
+For Installing plugin import `vue-jquery-calendar` in your component page.
 
 ```js
 //foo.vue
@@ -24,7 +26,8 @@ export default {
 
 ### Note
 
-Please note that this package required `jquery` and `jquery-ui` dependencies to be installed.
+Please note that this package depends on `jQuery` and `jquery-ui`, but you won't need to add it to your project manually, `vue-jquery-calendar` will handle this for you automatically if this dependencies are not detected.
+
 
 ### CSS
 For `vue-jquery-calendar` appearance import jquery-ui css in `App.vue` main file
